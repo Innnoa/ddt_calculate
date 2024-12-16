@@ -1,0 +1,3 @@
+G:/c++/ddt_calculate_demo/ddt_calculate/cmake-build-debug/CMakeFiles/ddt_calculate.dir
+G:/c++/ddt_calculate_demo/ddt_calculate/cmake-build-debug/CMakeFiles/edit_cache.dir
+G:/c++/ddt_calculate_demo/ddt_calculate/cmake-build-debug/CMakeFiles/rebuild_cache.dir
