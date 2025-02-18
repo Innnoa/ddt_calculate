@@ -47,7 +47,7 @@ void Decimal_screen_distance(auto &distance, auto &dynamics, auto &angle) { //先
         }
 }
 
-void Fractional_wind(auto &distance, auto &dynamics, auto &wind, auto &angle) { //再计算小数风力,目前没问题
+void Fractional_wind(const auto &distance, auto &dynamics, const auto &wind, auto &angle) { //再计算小数风力,目前没问题
     angle += static_cast<int>(wind * 2);
     auto wind_diff = ((wind * 2) - static_cast<int>(wind * 2)) / 2;
     if (wind_diff<0)
@@ -57,7 +57,7 @@ void Fractional_wind(auto &distance, auto &dynamics, auto &wind, auto &angle) { 
     dynamics -= (12 / distance) * wind_diff / 0.1;
 }
 
-void Height_difference_calculation(auto &altitude, auto &distance, auto &dynamics) { //再计算高差影响,目前是对的
+void Height_difference_calculation(auto &altitude, const auto &distance, auto &dynamics) { //再计算高差影响,目前是对的
     if (altitude < 0)
         {
             altitude = -altitude;
