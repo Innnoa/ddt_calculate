@@ -49,8 +49,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "G:/c++/ddt_calculate_demo/ddt_calculate/cmake-build-debug",
-		"source" : "G:/c++/ddt_calculate_demo/ddt_calculate"
+		"build" : "F:/c++/ddt_calculate_demo/ddt_calculate/cmake-build-debug",
+		"source" : "F:/c++/ddt_calculate_demo/ddt_calculate"
 	},
 	"version" : 
 	{

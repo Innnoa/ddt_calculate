@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "g:/c++/ddt_calculate_demo/ddt_calculate/cmake-build-debug"
+			"value" : "f:/c++/ddt_calculate_demo/ddt_calculate/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -575,7 +575,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "G:/c++/ddt_calculate_demo/ddt_calculate/cmake-build-debug/CMakeFiles/pkgRedirects"
+			"value" : "F:/c++/ddt_calculate_demo/ddt_calculate/cmake-build-debug/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -647,7 +647,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "G:/c++/ddt_calculate_demo/ddt_calculate"
+			"value" : "F:/c++/ddt_calculate_demo/ddt_calculate"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -1291,7 +1291,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "G:/c++/ddt_calculate_demo/ddt_calculate/cmake-build-debug"
+			"value" : "F:/c++/ddt_calculate_demo/ddt_calculate/cmake-build-debug"
 		},
 		{
 			"name" : "ddt_calculate_IS_TOP_LEVEL",
@@ -1315,7 +1315,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "G:/c++/ddt_calculate_demo/ddt_calculate"
+			"value" : "F:/c++/ddt_calculate_demo/ddt_calculate"
 		}
 	],
 	"kind" : "cache",

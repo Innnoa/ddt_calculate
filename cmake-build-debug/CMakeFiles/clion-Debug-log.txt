@@ -1,4 +1,4 @@
-E:\CLion\bin\cmake\win\x64\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=E:/CLion/bin/ninja/win/x64/ninja.exe -G Ninja -S G:\c++\ddt_calculate_demo\ddt_calculate -B G:\c++\ddt_calculate_demo\ddt_calculate\cmake-build-debug
+E:\CLion\bin\cmake\win\x64\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=E:/CLion/bin/ninja/win/x64/ninja.exe -G Ninja -S F:\c++\ddt_calculate_demo\ddt_calculate -B F:\c++\ddt_calculate_demo\ddt_calculate\cmake-build-debug
 -- The C compiler identification is GNU 13.1.0
 -- The CXX compiler identification is GNU 13.1.0
 -- Detecting C compiler ABI info
@@ -11,6 +11,6 @@ E:\CLion\bin\cmake\win\x64\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_P
 -- Check for working CXX compiler: E:/CLion/bin/mingw/bin/g++.exe - skipped
 -- Detecting CXX compile features
 -- Detecting CXX compile features - done
--- Configuring done (4.0s)
--- Generating done (0.2s)
--- Build files have been written to: G:/c++/ddt_calculate_demo/ddt_calculate/cmake-build-debug
+-- Configuring done (5.3s)
+-- Generating done (0.4s)
+-- Build files have been written to: F:/c++/ddt_calculate_demo/ddt_calculate/cmake-build-debug

@@ -1,4 +1,4 @@
-# Install script for directory: G:/c++/ddt_calculate_demo/ddt_calculate
+# Install script for directory: F:/c++/ddt_calculate_demo/ddt_calculate
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -52,6 +52,6 @@ endif()
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-  file(WRITE "G:/c++/ddt_calculate_demo/ddt_calculate/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+  file(WRITE "F:/c++/ddt_calculate_demo/ddt_calculate/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
 endif()
